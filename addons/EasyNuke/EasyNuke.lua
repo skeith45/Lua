@@ -28,7 +28,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 _addon.name    = 'EasyNuke'
 _addon.author  = 'Nyarlko'
-_addon.version = '1.0.7'
+_addon.version = '1.0.8'
 _addon.command = "ez"
 
 require('sets')
